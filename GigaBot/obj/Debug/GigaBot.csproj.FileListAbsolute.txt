@@ -11,9 +11,11 @@ C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin
 C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin\Debug\Discord.Net.Commands.xml
 C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin\Debug\Discord.Net.Modules.xml
 C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\obj\Debug\GigaBot.csproj.GigaBot.exe.config
 C:\Users\Aron Chudnoff\Documents\Visual Studio 2015\Projects\GigaBot\GigaBot\bin\Debug\RestSharp.dll
 C:\Users\Aron Chudnoff\Documents\Visual Studio 2015\Projects\GigaBot\GigaBot\bin\Debug\RestSharp.xml
 C:\Users\Aron Chudnoff\Documents\Visual Studio 2015\Projects\GigaBot\GigaBot\bin\Debug\websocket-sharp.dll
 C:\Users\Aron Chudnoff\Documents\Visual Studio 2015\Projects\GigaBot\GigaBot\bin\Debug\websocket-sharp.xml
-C:\Users\Aron Chudnoff\Documents\Visual Studio 2015\Projects\GigaBot\GigaBot\obj\Debug\GigaBot.csprojResolveAssemblyReference.cache
+C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin\Debug\WatiN.Core.dll
+C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin\Debug\WatiN.Core.xml
+C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Aron Chudnoff\documents\visual studio 2015\Projects\GigaBot\GigaBot\obj\Debug\GigaBot.csprojResolveAssemblyReference.cache
